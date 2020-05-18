@@ -11,7 +11,7 @@
     float: right;
     color: black;
     text-align: center;
-    padding: 30px 40px;
+    padding: 35px 40px;
     text-decoration: none;
     font-size: 20px;
     font-weight: bold;
@@ -27,7 +27,7 @@
     text-decoration: none;
     font-size: 30px;
     font-weight: bold;
-    margin-top: 20px;
+    margin-top: 27px;
     margin-left: 25px;
     font-family: Papyrus, fantasy;
 }
@@ -73,11 +73,38 @@
 
 #ethan_and_katie {
     
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 35px;
+    margin-right: 40px;
     float: left;
+    border-radius: 15px;
 
 }
+
+.aboutme p {
+
+    margin-right: 35px;
+    text-align: justify;
+    font-size: 14pt;
+
+
+
+}
+
+/*footer {
+   
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    background-color: #ADEFD1FF;
+    height: 50px;
+
+}
+
+footer a {
+
+   padding: 0px 100px;
+
+} */
 
 
 body {
