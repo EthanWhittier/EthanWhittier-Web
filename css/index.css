@@ -137,13 +137,12 @@ nav {
   }
 
   main img {
-    max-width: calc(5vw + 5em);
+    max-width: 15%;
   }
 
   /*MAIN*/
 
   .ethanKatie {
-      border-radius: 60%;
       margin: 1.2em;
       float: left;
   }
@@ -217,12 +216,10 @@ nav {
   }
 
   
-
-
-
 @media (min-width: 960px) {
     .home {
         display: block;
         font-family: cursive;
     }
+
 }
